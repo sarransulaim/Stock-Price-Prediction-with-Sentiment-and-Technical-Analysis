@@ -144,45 +144,46 @@
 ## Output Screenshots:
 The Home page of the application displays real-time data on stock prices.
 
-![Screenshot (101)](https://github.com/sarransulaim/Stock-price-prediction-with-sentiment-analysis/assets/82736275/ec28f2c3-60d7-46ef-98fe-06d286f8c6ac)
+![Screenshot (101)](https://github.com/sarransulaim/Stock-Price-Prediction-with-Sentiment-and-Technical-Analysis/assets/82736275/09780db1-953c-44b4-bac9-961bc6f8c735)
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-![Screenshot (102)](https://github.com/sarransulaim/Stock-price-prediction-with-sentiment-analysis/assets/82736275/7181424b-7ee1-446a-a62d-b28c7d227d62)
+![Screenshot (102)](https://github.com/sarransulaim/Stock-Price-Prediction-with-Sentiment-and-Technical-Analysis/assets/82736275/c26db382-1125-4b54-9415-9ca4056a8eb2)
 
 
 To Predict stock price we move on to the prediction page where we need to enter a valid ticker value and a number of days and click the Predict button.
 
-![Screenshot (103)](https://github.com/sarransulaim/Stock-price-prediction-with-sentiment-analysis/assets/82736275/93760edb-d148-4e9f-bf37-7d54f4fbca02)
+![Screenshot (103)](https://github.com/sarransulaim/Stock-Price-Prediction-with-Sentiment-and-Technical-Analysis/assets/82736275/91053ebe-b60a-4b14-9c3d-10714953840b)
 
 
 This page displays the predicted stock price along with searched ticker details and also displays real-time stock movements.
 
-![Screenshot (104)](https://github.com/sarransulaim/Stock-price-prediction-with-sentiment-analysis/assets/82736275/63dca41c-abf8-4568-8d8a-7598e3284b9e)
+![Screenshot (104)](https://github.com/sarransulaim/Stock-Price-Prediction-with-Sentiment-and-Technical-Analysis/assets/82736275/635d6573-d4eb-4cb6-bd93-87a6ddaa0662)
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-![Screenshot (105)](https://github.com/sarransulaim/Stock-price-prediction-with-sentiment-analysis/assets/82736275/7fd0d345-674e-42cb-bb9b-0a46c25626f6)
+![Screenshot (105)](https://github.com/sarransulaim/Stock-Price-Prediction-with-Sentiment-and-Technical-Analysis/assets/82736275/732f0cc3-51f5-44de-b07b-056584f7106b)
 
 
 The Left Graph is the real-time stock price of the searched ticker for the past 1 year & the Right Graph is the predicted stock price for the number of days searched.
 
-![Screenshot (106)](https://github.com/sarransulaim/Stock-price-prediction-with-sentiment-analysis/assets/82736275/de89b45b-7c5b-491f-bc95-a519155ed1fa)
+![Screenshot (106)](https://github.com/sarransulaim/Stock-Price-Prediction-with-Sentiment-and-Technical-Analysis/assets/82736275/bab2bbb2-ac18-42e8-beb1-d9929e4fb2f6)
 
 
 The Left Graph is the real-time stock sentiment analysis of the searched ticker & the Right Graph is the real-time stock technical analysis of the searched ticker.
 
-![Screenshot (107)](https://github.com/sarransulaim/Stock-price-prediction-with-sentiment-analysis/assets/82736275/cbbd0cd3-3a46-416b-a32d-876bd8221c75)
+![Screenshot (107)](https://github.com/sarransulaim/Stock-Price-Prediction-with-Sentiment-and-Technical-Analysis/assets/82736275/c0ac22cc-4e6a-4b4d-b11c-73775ae2f76a)
 
 
 This image shows the NEWS headlines and its description of the selected Stock ticker.
 
-![Screenshot (108)](https://github.com/sarransulaim/Stock-price-prediction-with-sentiment-analysis/assets/82736275/392c5906-96b9-4c57-b015-3b3cf2eebf26)
+![Screenshot (108)](https://github.com/sarransulaim/Stock-Price-Prediction-with-Sentiment-and-Technical-Analysis/assets/82736275/62d1675b-ff9d-488e-839f-283d41ce37bb)
 
 
 The Ticker Info page displays the details of all the valid tickers the application accepts.
 
-![Screenshot (109)](https://github.com/sarransulaim/Stock-price-prediction-with-sentiment-analysis/assets/82736275/5e624216-4e36-40b0-9c99-b8c7ffb296aa)
+![Screenshot (109)](https://github.com/sarransulaim/Stock-Price-Prediction-with-Sentiment-and-Technical-Analysis/assets/82736275/a462add4-39ae-4789-8d56-db27acadd2f5)
+
 
 
 
