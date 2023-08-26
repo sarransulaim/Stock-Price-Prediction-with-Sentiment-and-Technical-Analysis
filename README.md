@@ -144,45 +144,45 @@
 ## Output Screenshots:
 The Home page of the application displays real-time data on stock prices.
 
-![Screenshot (101)](https://github.com/sarransulaim/Stock-and-done/assets/82736275/1b936cdd-4e66-432f-9107-f7c8f369d12c)
+![Screenshot (101)](https://github.com/sarransulaim/Stock-price-prediction-with-sentiment-analysis/assets/82736275/ec28f2c3-60d7-46ef-98fe-06d286f8c6ac)
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-![Screenshot (102)](https://github.com/sarransulaim/Stock-and-done/assets/82736275/3ea2dbad-45f6-4dd0-90b0-434d40f38987)
+![Screenshot (102)](https://github.com/sarransulaim/Stock-price-prediction-with-sentiment-analysis/assets/82736275/7181424b-7ee1-446a-a62d-b28c7d227d62)
 
 
 To Predict stock price we move on to the prediction page where we need to enter a valid ticker value and a number of days and click the Predict button.
 
-![Screenshot (103)](https://github.com/sarransulaim/Stock-and-done/assets/82736275/18cc449b-a170-48ee-a868-bf48beef88df)
+![Screenshot (103)](https://github.com/sarransulaim/Stock-price-prediction-with-sentiment-analysis/assets/82736275/93760edb-d148-4e9f-bf37-7d54f4fbca02)
 
 
 This page displays the predicted stock price along with searched ticker details and also displays real-time stock movements.
 
-![Screenshot (104)](https://github.com/sarransulaim/Stock-and-done/assets/82736275/bbbc8b2b-5aaa-43c9-8e6c-bfe3a101438d)
+![Screenshot (104)](https://github.com/sarransulaim/Stock-price-prediction-with-sentiment-analysis/assets/82736275/63dca41c-abf8-4568-8d8a-7598e3284b9e)
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-![Screenshot (105)](https://github.com/sarransulaim/Stock-and-done/assets/82736275/47516bd8-0972-4912-885e-810f1e3cdcac)
+![Screenshot (105)](https://github.com/sarransulaim/Stock-price-prediction-with-sentiment-analysis/assets/82736275/7fd0d345-674e-42cb-bb9b-0a46c25626f6)
 
 
 The Left Graph is the real-time stock price of the searched ticker for the past 1 year & the Right Graph is the predicted stock price for the number of days searched.
 
-![Screenshot (106)](https://github.com/sarransulaim/Stock-and-done/assets/82736275/fef787a1-91a6-4e24-8f4d-09e348adbb3e)
+![Screenshot (106)](https://github.com/sarransulaim/Stock-price-prediction-with-sentiment-analysis/assets/82736275/de89b45b-7c5b-491f-bc95-a519155ed1fa)
 
 
 The Left Graph is the real-time stock sentiment analysis of the searched ticker & the Right Graph is the real-time stock technical analysis of the searched ticker.
 
-![Screenshot (107)](https://github.com/sarransulaim/Stock-and-done/assets/82736275/d002c950-5324-4e9e-8248-ab29a4dac738)
+![Screenshot (107)](https://github.com/sarransulaim/Stock-price-prediction-with-sentiment-analysis/assets/82736275/cbbd0cd3-3a46-416b-a32d-876bd8221c75)
 
 
 This image shows the NEWS headlines and its description of the selected Stock ticker.
 
-![Screenshot (108)](https://github.com/sarransulaim/Stock-and-done/assets/82736275/57715de6-b17d-4b5a-8c88-83aceb3c1a59)
+![Screenshot (108)](https://github.com/sarransulaim/Stock-price-prediction-with-sentiment-analysis/assets/82736275/392c5906-96b9-4c57-b015-3b3cf2eebf26)
 
 
 The Ticker Info page displays the details of all the valid tickers the application accepts.
 
-![Screenshot (109)](https://github.com/sarransulaim/Stock-and-done/assets/82736275/8f49e806-9d00-47b3-94b8-7c808bd7b48b)
+![Screenshot (109)](https://github.com/sarransulaim/Stock-price-prediction-with-sentiment-analysis/assets/82736275/5e624216-4e36-40b0-9c99-b8c7ffb296aa)
 
 
 
